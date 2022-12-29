@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently learning [Java, Spring, Git]
+
 - Java
 - Spring Boot
 - Docker
 - Kubernetes
+- Memo
 
 <!--
 **uriq/uriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
