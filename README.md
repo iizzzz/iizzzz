@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning [Java, Spring, Git]
+🌱 I’m currently learning Java, Spring, Git
 
 - Java
 - Spring Boot
