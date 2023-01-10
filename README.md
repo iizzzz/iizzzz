@@ -8,7 +8,8 @@
 - Kubernetes
 - Memo
 
-🌱 
+🌱 My Blog
+
 https://root-ca.tistory.com/
 
 <!--
