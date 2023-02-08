@@ -10,7 +10,7 @@
 
 🌱 My Blog
 
-link: https://root-ca.tistory.com/
+https://root-ca.tistory.com/
 
 <!--
 **uriq/uriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![treewww's GitHub stats](https://github-readme-stats.vercel.app/api?username=treewww&show_icons=true&theme=merko)
+![iizzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=iizzzz&show_icons=true&theme=merko)
