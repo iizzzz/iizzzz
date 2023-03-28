@@ -3,6 +3,7 @@
 🌱 I’m currently learning Java, Spring, Git
 
 - Java
+- Kotlin
 - Spring Boot
 - Docker
 - Kubernetes
